@@ -1,2 +1,2 @@
 # ya_practicum_python
-Test repository for study Ya_Practicum Python
+Test repository to study Yandex Practicum Python
